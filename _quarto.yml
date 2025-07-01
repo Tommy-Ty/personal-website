@@ -4,8 +4,8 @@ project:
   render:
     - "*.qmd"
 
-metadata:
-  google-site-verification: 9azlzBQkSL1bEfQM1Yd0t7AS1aj2kTgsQRaYop7KV84
+metadata-files:
+  - _metadata.yml
 
 website:
   title: "Runze Tai"
@@ -32,6 +32,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    include-in-header: _includes/head.html
 
 publish:
   provider: github
