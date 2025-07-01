@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Runze Tai"
+  navbar:
+    left:
+      - text: Personal CV
+        file: cv.qmd
+      - text: Research
+        file: research.qmd
+      - text: Blog
+        file: blog.qmd
+    right:
+      - icon: github
+        href: https://github.com/Tommy-Ty
+      - icon: threads
+        href: https://threads.net/@ta1m0u
+  back-to-top-navigation: true
+  page-footer: "© Runze Tai 2024, Powered by [Quarto®](https://quarto.org)."
+  reader-mode: true
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+publish:
+  provider: github
+  repo: Tommy-Ty/personal-website
