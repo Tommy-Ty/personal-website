@@ -4,6 +4,9 @@ project:
   render:
     - "*.qmd"
 
+metadata:
+  google-site-verification: 9azlzBQkSL1bEfQM1Yd0t7AS1aj2kTgsQRaYop7KV84
+
 website:
   title: "Runze Tai"
   navbar:

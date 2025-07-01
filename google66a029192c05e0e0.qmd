@@ -1,6 +1,0 @@
----
-title: "Google site verification"
-format: html
-page-layout: full
----
-google66a029192c05e0e0.html
