@@ -1,6 +1,8 @@
 ---
 title: "Blog"
-mainfont: EB Garamond
+format:
+  html:
+    css: styles.css
 ---
 
 under construction
