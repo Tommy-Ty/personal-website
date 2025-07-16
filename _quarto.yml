@@ -22,8 +22,10 @@ website:
         href: https://github.com/Tommy-Ty
       - icon: threads
         href: https://threads.net/@ta1m0u
+      - icon: sina-weibo
+        href: https://weibo.com/u/2821436162  
   back-to-top-navigation: true
-  page-footer: "© Runze Tai 2025, Powered by [Quarto®](https://quarto.org)."
+  page-footer: "© Runze Tai 2025, powered by [![](quarto.png){height=12pt}](https://quarto.org)."
   reader-mode: true
 
 

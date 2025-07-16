@@ -5,8 +5,7 @@ format:
     css: styles.css
 ---
 
-School of International Relations and Public Affairs, Fudan University, 220 Handan Rd., Shanghai 200433, China
-
+School of International Relations and Public Affairs, Fudan University, 220 Handan Rd., Shanghai 200433, China. [`rztai25@m.fudan.edu.cn`](mailto: rztai25@m.fudan.edu.cn) ![](orcid.png){width=12pt}
 
 ## EDUCATION
 
@@ -65,8 +64,7 @@ School of Government | **2022.9-2025.6**
 
 - **Tai, Runze**, "Imperial Infrastructure and State Building: Evidence from Stages in Ming China (1522-1620)," *The Sixth Academic Workshop on "State and Governance in History" (hosted by RUC & ECUPL),* November 2024.
 
-- Jia, Xiaoteng and **Runze Tai**, "Can State Governance Capacity Ensure Public Health Security? An Empirical Study Based on World Governance Index and COVID-19 Vaccination Rate in Four Southeast Asian Countries," *The First Chinese Undergraduate Seminar on Political Science (hosted by SCNU)*, November 2021.
- **First Prize Paper in the Seminar Achievement Selection*
+- Jia, Xiaoteng and **Runze Tai**, "Can State Governance Capacity Ensure Public Health Security? An Empirical Study Based on World Governance Index and COVID-19 Vaccination Rate in Four Southeast Asian Countries," *The First Chinese Undergraduate Seminar on Political Science (hosted by SCNU)*, November 2021. * *First Prize Paper in the Seminar Achievement Selection*
 
 
 ### Database
@@ -88,62 +86,68 @@ Xingchen Lan, PhD. Student, Wilf Family Department of Politics, New York Univers
 
 - **Key Programme of National Social Science Foundation of China** 
 
-“Research on the Political Guarantee of Accelerating Digital Development and Building a Digital China” (Programme No. 21AZD021), Programme Director: Prof. Gao Qiqi. | 2022.9-2024.6
+&emsp; “Research on the Political Guarantee of Accelerating Digital Development and Building a Digital China” (Programme No. 21AZD021), Programme Director: Prof. Gao Qiqi. | 2022.9-2024.6
 
-*Participated in the research of the part named “Technological Governance of Artificial Intelligence and its Political Guarantees” in the program and produced a journal article as an interim outcome. Participated in proofreading, literature collection and collation. Participated in writing and collation of the final report of the programme.* 
+&emsp; *Participated in the research of the part named “Technological Governance of Artificial Intelligence and its Political Guarantees” in the program and produced a journal article as an interim outcome. Participated in proofreading, literature collection and collation. Participated in writing and collation of the final report of the programme.* 
 
 ***
 
 - **General Programme of National Social Science Foundation of China** 
 
-“Research on the Mechanism of Governments Promoting Entrepreneurship Cultivation in the New Era” (Programme No. 18BZZ087), Programme Director: Associate Prof. Zhang Xianli. | 2022.9-2023.6
+&emsp; “Research on the Mechanism of Governments Promoting Entrepreneurship Cultivation in the New Era” (Programme No. 18BZZ087), Programme Director: Associate Prof. Zhang Xianli. | 2022.9-2023.6
 
-*Participated in the field research of the programme, conducting interviews with local government officials to collect first-hand information and data. Participated in the part named “Local Government and Entrepreneurship” of the programme, and was mainly responsible for the empirical part of the programme, including data collection and collation, research design, hypothesis testing, robustness testing and heterogeneity analysis. Some responsibilities including proofreading and collation.*
-
-***
-
-The Coordination Mechanism Programme 2024 for International Communication Capacity Building Research of the Foreign Languages Bureau of China --“Problems and Countermeasures to Enhance the Influence of Chinese Civilisation’s Communicating Power”, Programme Director: Associate Prof. Zhang Xianli.  | 2024.6-2023.12
-
- *Participated in the writing of a comprehensive research report on the project with a special report as an interim outcome.*
+&emsp; *Participated in the field research of the programme, conducting interviews with local government officials to collect first-hand information and data. Participated in the part named “Local Government and Entrepreneurship” of the programme, and was mainly responsible for the empirical part of the programme, including data collection and collation, research design, hypothesis testing, robustness testing and heterogeneity analysis. Some responsibilities including proofreading and collation.*
 
 ***
 
-“Global Governance Index 2024” --a joint programme between the Foreign Languages Bureau of China and East China University of Political Science and Law, Chief Expert: Prof. Gao Qiqi; Programme Director: Associate Prof. Yan Xingjian. | 2022.9-2022.12
+- The Coordination Mechanism Programme 2024 for International Communication Capacity Building Research of the Foreign Languages Bureau of China
 
-*The project measures and evaluates the participation and contribution of 189 countries to global governance over the past 10 years through objective data. I was involved in the collection of information and data for the project, as well as in the writing of the Global Governance Index 2022 Report.*
+&emsp; “Problems and Countermeasures to Enhance the Influence of Chinese Civilisation’s Communicating Power”, Programme Director: Associate Prof. Zhang Xianli.  | 2024.6-2023.12
+
+&emsp; *Participated in the writing of a comprehensive research report on the project with a special report as an interim outcome.*
 
 ***
 
-“Index of International Security Situation Awareness,IISSA (2023)”, --a joint programme between University of International Relations and East China University of Political Science and Law, Chief Expert: Prof. Tan Xiuying, and Prof. Gao Qiqi; Programme Director: Associate Prof. Yan Xingjian. | 2022.9-2022.12
+- “Global Governance Index 2024” 
 
-*This project assessed the security situation of 82 target countries in 2023, with the goal of building a refined security situational awareness model to predict security threats in real time. The project report was invited as an official recommended publication to be presented at the 11th Beijing Xiangshan Forum 2024. I was involved in the information collection and data collation of the project.*
+&emsp; ---a joint programme between the Foreign Languages Bureau of China and East China University of Political Science and Law, Chief Expert: Prof. Gao Qiqi; Programme Director: Associate Prof. Yan Xingjian. | 2022.9-2022.12
+
+&emsp; *The project measures and evaluates the participation and contribution of 189 countries to global governance over the past 10 years through objective data. I was involved in the collection of information and data for the project, as well as in the writing of the Global Governance Index 2022 Report.*
+
+***
+
+- “Index of International Security Situation Awareness,IISSA (2023)”
+
+&emsp; ---a joint programme between University of International Relations and East China University of Political Science and Law, Chief Expert: Prof. Tan Xiuying, and Prof. Gao Qiqi; Programme Director: Associate Prof. Yan Xingjian. | 2022.9-2022.12
+
+&emsp; *This project assessed the security situation of 82 target countries in 2023, with the goal of building a refined security situational awareness model to predict security threats in real time. The project report was invited as an official recommended publication to be presented at the 11th Beijing Xiangshan Forum 2024. I was involved in the information collection and data collation of the project.*
 
 
 ## TEACHING EXPERIENCE
 
 ### Teaching Assistant, SIRPA, Fudan | 2025.9-2026.1 (expected)
 
-Course: Artificial Intelligence and Social Science Research (2025 Fall)
+&emsp; Course: Artificial Intelligence and Social Science Research (2025 Fall)
 
-*Some responsibilities including grading and answering students' questions.*
+&emsp; *Some responsibilities including grading and answering students' questions.*
 
 ### Teaching Assistant, School of Government, ECUPL | 2023.2-2023.6
 
-Course: Intro to Insurance Studies (2023 Spring)
+&emsp; Course: Intro to Insurance Studies (2023 Spring)
 
-*Some responsibilities including leading discussions sections, recording attendance, collecting assignments, and grading exams for undergraduate courses.*
+&emsp; *Some responsibilities including leading discussions sections, recording attendance, collecting assignments, and grading exams for undergraduate courses.*
 
 ## SERVICE
 
-Content Manager, WeChat Public Platform, **Research Center of Chinese Path to Modernization, IAS-Fudan** | 2025.5 to present
+&emsp; Content Manager, WeChat Public Platform, **Research Center of Chinese Path to Modernization, IAS-Fudan** | 2025.5 to present
     
-*Responsible for content curation, editing, and publishing of academic outreach materials for a research-oriented WeChat platform. Collaborate with researchers to translate scholarly output into accessible public content, enhancing the center’s public engagement and visibility.*
+&emsp; *Responsible for content curation, editing, and publishing of academic outreach materials for a research-oriented WeChat platform. Collaborate with researchers to translate scholarly output into accessible public content, enhancing the center’s public engagement and visibility.*
 
 ***
 
-Student Affairs, Student Union, **School of International Relations, SISU** | 2018.10-2021.6
+&emsp; Student Affairs, Student Union, **School of International Relations, SISU** | 2018.10-2021.6
 
-*Planned and organized student events and activities such as annual galas engaging hundreds of participants. Coordinated logistics, communications, and on-site execution for extracurricular programming aimed at enhancing student life.*
+&emsp; *Planned and organized student events and activities such as annual galas engaging hundreds of participants. Coordinated logistics, communications, and on-site execution for extracurricular programming aimed at enhancing student life.*
 
 ## SCHOLARSHIPS & AWARDS
 

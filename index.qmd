@@ -5,7 +5,10 @@ format:
     css: styles.css
 ---
 
-<img align="right" src="photo.jpg" width="25%">
+<div class="profile-pic">
+  <img src="photo.jpg" alt="Runze Tai photo">
+</div>
+
 Welcome to my personal website. I am a PhD student of political science, currently studying at the [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn) of [Fudan University](https://www.fudan.edu.cn). I am also a research assistant at the [Fudan Institute for Advanced Studies in Social Sciences](https://ias.fudan.edu.cn). 
 
 My major is political science, and my current research interests lie in historical political economy, historical sociology, and social science methodology. Specifically, I am interested in state capacity, state building, authoritarianism, conflict and war, as well as quantitative research methods and machine learning in social science research.
@@ -19,3 +22,12 @@ You can reach me at [`rztai25@m.fudan.edu.cn`](mailto: rztai25@m.fudan.edu.cn), 
 **About My Name**
 
 My name is Runze Tai, written in Chinese as 「臺潤澤」. "Tai (臺)" is my family name, and "Runze (潤澤)" is my given name. For readers unfamiliar with Chinese, the Yale romanization *Tai-Rwun-Dze* may better approximate the pronunciation for English speakers. 
+
+***
+
+<div class="calligraphy-quote">
+水浊则鱼困，令苛则民乱，城峭则必崩，岸竦则必陀。故夫治国，譬若张琴，大弦急则小弦绝矣。
+</div>
+<div class="quote-source">
+  ---《说苑·政理》
+</div>
