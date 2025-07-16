@@ -2,6 +2,7 @@
 
 /* 导入所需字体 */
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=LXGW+WenKai+TC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&display=swap');
 
 /* 设置整体字体：英文字体优先，中文字体作为 fallback */
 body {
@@ -10,5 +11,34 @@ body {
     'LXGW WenKai TC',             /* 中文 */
     serif;
   font-size: 18px;
+  text-align: justify;
   line-height: 1.6;
+}
+
+.calligraphy-quote {
+  font-family: 'Liu Jian Mao Cao', cursive;
+  font-size: 1.4rem;
+  line-height: 1.8;
+  margin-top: 3em;
+  margin-bottom: 0.5em;
+  color: #333;
+}
+
+.quote-source {
+  font-family: 'LXGW WenKai TC', serif;
+  font-size: 1rem;
+  text-align: right;
+  margin-bottom: 2em;
+  color: #666;
+}
+
+.profile-pic {
+  float: right;
+  margin-left: 1.5em;
+  margin-bottom: 0.5em;
+  width: 25%;
+}
+
+.profile-pic img {
+  width: 100%;
 }
