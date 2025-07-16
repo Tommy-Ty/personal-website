@@ -1,7 +1,14 @@
 /* css styles */
 
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+/* 导入所需字体 */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=LXGW+WenKai+TC&display=swap');
 
+/* 设置整体字体：英文字体优先，中文字体作为 fallback */
 body {
-  font-family: 'EB Garamond', serif;
+  font-family:
+    'EB Garamond',                /* 英文 */
+    'LXGW WenKai TC',             /* 中文 */
+    serif;
+  font-size: 18px;
+  line-height: 1.6;
 }

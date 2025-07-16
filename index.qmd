@@ -10,4 +10,12 @@ Welcome to my personal website. I am a PhD student of political science, current
 
 My major is political science, and my current research interests lie in historical political economy, historical sociology, and social science methodology. Specifically, I am interested in state capacity, state building, authoritarianism, conflict and war, as well as quantitative research methods and machine learning in social science research.
 
-You can reach me at [`rztai25@m.fudan.edu.cn`](mailto: rztai25@m.fudan.edu.cn), [`tai_runze@ecupl.edu.cn`](mailto: tai_runze@ecupl.edu.cn). **Attention: <u>The ECUPL email address will be discontinued from September 2025.</u>**
+You can reach me at [`rztai25@m.fudan.edu.cn`](mailto: rztai25@m.fudan.edu.cn), [~~`tai_runze@ecupl.edu.cn`~~](mailto: tai_runze@ecupl.edu.cn). 
+
+**Attention: The ECUPL email address will be deactivated from September 2025.**
+
+***
+
+**About My Name**
+
+My name is Runze Tai, written in Chinese as 「臺潤澤」. "Tai (臺)" is my family name, and "Runze (潤澤)" is my given name. For readers unfamiliar with Chinese, the Yale romanization *Tai-Rwun-Dze* may better approximate the pronunciation for English speakers. 
