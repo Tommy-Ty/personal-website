@@ -1,8 +1,7 @@
 /* css styles */
 
 /* 导入所需字体 */
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=LXGW+WenKai+TC&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=LXGW+WenKai+TC&family=Liu+Jian+Mao+Cao&display=swap');
 
 /* 设置整体字体：英文字体优先，中文字体作为 fallback */
 body {
@@ -39,5 +38,5 @@ body {
 }
 
 .profile-pic img {
-  width: 25%;
+  width: 100%;
 }
