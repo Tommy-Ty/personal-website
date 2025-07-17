@@ -26,7 +26,7 @@ My name is Runze Tai, written in Chinese as 「臺潤澤」. "Tai (臺)" is my f
 ***
 
 <div class="calligraphy-quote">
-水浊则鱼困，令苛则民乱，城峭则必崩，岸竦则必陀。故夫治国，譬若张琴，大弦急则小弦绝矣。
+水浊则鱼困令苛则民乱城峭则必崩岸竦则必陀故夫治国譬若张琴大弦急则小弦绝矣
 </div>
 <div class="quote-source">
   ---《说苑·政理》

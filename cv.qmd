@@ -5,7 +5,7 @@ format:
     css: styles.css
 ---
 
-School of International Relations and Public Affairs, Fudan University, 220 Handan Rd., Shanghai 200433, China. [`rztai25@m.fudan.edu.cn`](mailto: rztai25@m.fudan.edu.cn) ![](orcid.png){width=12pt}
+School of International Relations and Public Affairs, Fudan University, 220 Handan Rd., Shanghai 200433, China. [`rztai25@m.fudan.edu.cn`](mailto: rztai25@m.fudan.edu.cn) [![](orcid.png){width=12pt}](https://orcid.org/0009-0002-0363-4183)
 
 ## EDUCATION
 
