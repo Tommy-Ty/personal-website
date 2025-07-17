@@ -16,10 +16,17 @@ body {
 
 .calligraphy-quote {
   font-family: 'Liu Jian Mao Cao', cursive;
-  font-size: 1.4rem;
-  line-height: 1.8;
-  margin-top: 1em;
-  margin-bottom: 0.5em;
+  font-size: 1.5rem;
+  line-height: 2;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  text-align: justify;
+  height: 15em; /* 控制每列的“高度” */
+  column-width: auto;
+  column-count: auto;
+  column-gap: 2em; /* 列之间的间距 */
+  overflow-wrap: break-word;
+  margin: 3em auto 0.5em auto;
   color: #333;
 }
 
@@ -27,7 +34,8 @@ body {
   font-family: 'LXGW WenKai TC', serif;
   font-size: 1rem;
   text-align: right;
-  margin-bottom: 2em;
+  height: 20em; /* 让其与上方对齐 */
+  margin: 1em auto 2em auto;
   color: #666;
 }
 
