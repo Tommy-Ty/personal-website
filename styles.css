@@ -34,9 +34,16 @@ body {
   font-family: 'LXGW WenKai TC', serif;
   font-size: 1rem;
   text-align: right;
-  height: 20em; /* 让其与上方对齐 */
   margin: 1em auto 2em auto;
   color: #666;
+}
+
+.quote-explanation{
+  font-fanmily: 'LXGW WenKai TC';
+  font-size: 0.75em;
+  text-align: left'
+  margin: 3em auto 3em auto;
+  color: #666666;
 }
 
 .profile-pic {

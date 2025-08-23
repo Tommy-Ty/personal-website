@@ -28,6 +28,14 @@ My name is Runze Tai, written in Chinese as 「臺潤澤」. "Tai (臺)" is my f
 <div class="calligraphy-quote">
 水浊则鱼困令苛则民乱城峭则必崩岸竦则必陀故夫治国譬若张琴大弦急则小弦绝矣
 </div>
+
 <div class="quote-source">
   ---《说苑·政理》
+</div>
+
+
+<div class="quote-explanation">
+*If the water is too murky, the fish cannot survive; if the laws are too harsh, the people will rebel. If the city walls are built too steep, they will eventually collapse; if the river embankments are built too high, they will inevitably burst. Therefore, governing a country is like tuning a zither: if the thick strings are tuned too tightly, the thin strings will snap.*
+
+*--- Shuoyuan Zhengli*
 </div>

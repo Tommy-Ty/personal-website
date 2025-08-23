@@ -44,6 +44,11 @@ School of Government | **2022.9-2025.6**
 - Conflicts and wars
 - Quantitative methods and machine learning in social science
 
+## RESEARCH EXPERIENCE
+
+- Research Assistant, **![](unilogos/ias.png){width=24pt} Fudan Institute for Advanced Study in Social Sciences**, from 2025
+
+- Research Assistant, **![](unilogos/psi.png){width=24pt} Political Science Institute, East China University of Political Science and Law**, 2022-2025
 
 ## LANGUAGE & COMPUTER SKILLS
 
@@ -51,9 +56,6 @@ School of Government | **2022.9-2025.6**
 
 - Chinese (native)
 - English
-    - TEM-8: Good
-    - TEM-4: Good
-    - TOFEL: pending
 
 ### Computer
 
