@@ -5,7 +5,7 @@ format:
     css: styles.css
 ---
 
-*(This page is under construction.)*
+*(under construction)*
 
 ## PUBLICATIONS & MANUSCRIPS
 
@@ -31,7 +31,13 @@ format:
 
 ## RESEARCH EXPERIENCE
 
-### Research Assistant | 2025.6-2025.8 (expected)
+### Research Assistant | 2025.9-
+
+Fudan Data Intelligence and Social Computing Lab (Fudan-DISC)
+
+*Data annotation.*
+
+### Research Assistant | 2025.6-2025.8
 
 Xingchen Lan, PhD. Student, Wilf Family Department of Politics, New York University
 
