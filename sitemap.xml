@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Tommy-Ty.github.io/personal-website/tommy-ty.github.io/cv.html</loc>
-    <lastmod>2025-07-01T02:47:03.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Tommy-Ty.github.io/personal-website/tommy-ty.github.io/index.html</loc>
-    <lastmod>2025-07-01T03:30:41.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://Tommy-Ty.github.io/personal-website/index.html</loc>
     <lastmod>2025-09-25T11:01:46.903Z</lastmod>
   </url>
@@ -23,13 +15,5 @@
   <url>
     <loc>https://Tommy-Ty.github.io/personal-website/research.html</loc>
     <lastmod>2025-09-25T11:01:21.693Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Tommy-Ty.github.io/personal-website/tommy-ty.github.io/blog.html</loc>
-    <lastmod>2025-07-01T01:49:48.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Tommy-Ty.github.io/personal-website/tommy-ty.github.io/research.html</loc>
-    <lastmod>2025-07-01T01:49:48.000Z</lastmod>
   </url>
 </urlset>
