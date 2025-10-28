@@ -6,7 +6,7 @@
 /* 设置整体字体：英文字体优先，中文字体作为 fallback */
 body {
   font-family:
-    'EB Garamond',                /* 英文 */
+    'Merriweather Sans',          /* 英文 */
     'LXGW WenKai TC',             /* 中文 */
     serif;
   font-size: 18px;
