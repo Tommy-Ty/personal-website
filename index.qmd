@@ -28,7 +28,7 @@ My name is Runze Tai, written in Chinese as 「臺潤澤」. "Tai (臺)" is my f
 </div>
 
 <div class="quote-source">
-  ---《说苑·政理》
+  ---《說苑·政理》
 </div>
 
 
