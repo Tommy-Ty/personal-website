@@ -6,7 +6,7 @@ format:
 ---
 
 <div class="profile-pic">
-  <img src="photo-sep25.png" alt="Runze Tai photo">
+  <img src="photo-dec25.png" alt="Runze Tai photo">
 </div>
 
 Welcome to my personal website. I am a PhD student of political science, currently studying at the [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn) of [Fudan University](https://www.fudan.edu.cn). I am also a research assistant at the [Fudan Institute for Advanced Studies in Social Sciences](https://ias.fudan.edu.cn). 

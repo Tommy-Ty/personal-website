@@ -1,13 +1,13 @@
 /* css styles */
 
 /* 导入所需字体 */
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=LXGW+WenKai+TC&family=Liu+Jian+Mao+Cao&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Merriweather&family=Noto+Sans+TC&family=Noto+Serif+TC&family=Liu+Jian+Mao+Cao&display=swap');
 
 /* 设置整体字体：英文字体优先，中文字体作为 fallback */
 body {
   font-family:
-    'Merriweather Sans',          /* 英文 */
-    'LXGW WenKai TC',             /* 中文 */
+    'Merriweather Sans',              /* 英文 */
+    'Noto Sans TC',  /* 中文 */
     serif;
   font-size: 18px;
   text-align: justify;
@@ -31,7 +31,7 @@ body {
 }
 
 .quote-source {
-  font-family: 'LXGW WenKai TC', serif;
+  font-family: 'Noto Serif TC';
   font-size: 1rem;
   text-align: right;
   margin: 1em auto 2em auto;
@@ -39,9 +39,9 @@ body {
 }
 
 .quote-explanation{
-  font-fanmily: 'LXGW WenKai TC';
+  font-family: 'Merriweather';
   font-size: 0.75em;
-  text-align: left'
+  text-align: left;
   margin: 3em auto 3em auto;
   color: #666666;
 }
@@ -54,4 +54,7 @@ body {
 
 .profile-pic img {
   width: 100%;
+  aspect-ratio: 1 / 1;   /* 保证正方形 */
+  object-fit: cover;     /* 裁掉多余部分 */
+  border-radius: 50%;    /* 圆形遮罩 */
 }
