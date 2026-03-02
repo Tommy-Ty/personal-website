@@ -5,7 +5,7 @@ format:
     css: styles.css
 ---
 
-Download: [CV](resume-oct-28.pdf) (PDF version, updated in October 2025)
+Download: [CV](resume-mar-2.pdf) (PDF version, updated in October 2025)
 
 ---
 
@@ -13,7 +13,7 @@ School of International Relations and Public Affairs, Fudan University, 220 Hand
 
 ## EDUCATION
 
-![](unilogos/fudan.png){width=24pt} **Fudan University**,
+![](unilogos/fudan.ico){width=20pt} **Fudan University**,
 School of International Realations and Public Affairs (SIRPA) | **from 2025.9**
 
 - Ph.D. candidate in political science (specializing in Chinese politics)
