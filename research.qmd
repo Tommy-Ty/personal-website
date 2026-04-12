@@ -11,7 +11,7 @@ format:
 
 ### Conference Paper Presentations
 
-- Yang, Duancheng, and **Runze Tai**, "The Eve of Leviathan's Birth: Bureucratic Reforms and State Building in Medieval China," *American Political Science Association (APSA) Annual Meeting,* November 2025; *Midwest Political Science Association (MPSA) Conference,* April 2026 [equal contribution, co-first author].
+- Yang, Duancheng, and **Runze Tai**, "The Eve of Leviathan's Birth: Bureucratic Reforms and State Building in Early Medieval China," *American Political Science Association (APSA) Annual Meeting,* Sebtember 2025; *The 3rd Zhejiang University Annual Conference on Social Studies,* November 2025; *The 7th Academic Workshop on "State and Governance in History" (hosted by RUC & ECUPL),* November 2025; *Midwest Political Science Association (MPSA) Conference,* April 2026 [equal contribution, co-first author].
 
 - Yang, Duancheng, Dehao Zhao and **Runze Tai**, "Power Struggles, Credible Commitments, and State Building in Medieval China," *Midwest Political Science Association (MPSA) Conference,* April 2025 [corresponding author].
 
@@ -19,6 +19,9 @@ format:
 
 - Jia, Xiaoteng and **Runze Tai**, "Can State Governance Capacity Ensure Public Health Security? An Empirical Study Based on World Governance Index and COVID-19 Vaccination Rate in Four Southeast Asian Countries," *The First Chinese Undergraduate Seminar on Political Science (hosted by SCNU)*, November 2021. * *First Prize Paper in the Seminar Achievement Selection*
 
+### Working in Progress
+
+- Tai, Runze, "Who Is More Reliable? Information Sources, Authority of Channels, and Assessments of Deterrence During the Cold War Crisis."
 
 ### Database
 
