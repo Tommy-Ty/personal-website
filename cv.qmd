@@ -5,7 +5,7 @@ format:
     css: styles.css
 ---
 
-Download: [CV](resume-mar-2.pdf) (PDF version, updated in October 2025)
+Download: [CV](resume.pdf) (PDF version, updated in March 2026)
 
 ---
 
