@@ -1,17 +1,23 @@
 /* css styles */
 
 /* 导入所需字体 */
-@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Merriweather&family=Noto+Sans+TC&family=Noto+Serif+TC&family=Liu+Jian+Mao+Cao&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&family=Red+Hat+Mono&family=Chiron+Hei+HK&display=swap');
 
 /* 设置整体字体：英文字体优先，中文字体作为 fallback */
 body {
   font-family:
-    'Noto Sans',  /* 英文 */
-    'Noto Sans Traditional Chinese',  /* 中文 */
-    serif;
+    'Red Hat Display',  /* 英文 */
+    'Chiron Hei HK',  /* 中文 */;
   font-size: 18px;
   text-align: justify;
   line-height: 1.6;
+}
+
+code {
+  font-family:
+    'Red Hat Mono',  /* mono */
+    monospace;
+    font-size: 16px;
 }
 
 .profile-pic {
